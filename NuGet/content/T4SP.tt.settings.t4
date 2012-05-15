@@ -1,0 +1,14 @@
+﻿<#+
+
+	const string HelperPrefix = "SP";
+	static bool GenerateBuiltInFields = true;
+
+	static string[,] ExtendBuiltInFields = new string[,] {
+	};
+
+	static string[,] SiteGroups = new string[,] {
+	};
+
+	static string[] Roles = new string[]{ };
+
+#>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>T4SP</id>
+    <version>1.0.0</version>
+    <authors>Necros</authors>
+    <owners>Necros</owners>
+    <licenseUrl>http://creativecommons.org/licenses/by/3.0/</licenseUrl>
+    <projectUrl>https://github.com/Necroskillz/T4SP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>T4SP is a T4 template for SharePoint 2010 apps that creates strongly typed helpers that eliminate the use of literal strings when referring the lists, content types and fields.</description>
+    <tags>SharePoint2010 T4</tags>
+  </metadata>
+</package>
